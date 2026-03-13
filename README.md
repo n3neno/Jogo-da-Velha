@@ -2,7 +2,6 @@
 
 ## Funcionalidades:
 #### Modos de jogo: Jogar com um amigo ou com a máquina;
-#### Impedir jogadores de marcar um quadrado já preenchido;
 #### Validação de Dados: O sistema impede jogadas em casas ocupadas e valida se a entrada de texto é um número entre 1 e 3;
 #### Detecção Automática: O jogo identifica vitória por linhas, colunas, diagonais ou empate ("Deu Velha");
 #### Loop de Partida: Opção de reiniciar o jogo sem precisar fechar o programa;
